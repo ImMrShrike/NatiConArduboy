@@ -1,5 +1,5 @@
 # NatiConArduboy
-Una piccola animazione per Arduboy per omaggiare il film di Bud Spencer e Terence Hill: Nati con la camicia
+Una breve animazione in Arduboy per omaggiare Bud Spencer e Terence Hill, i due attori italiani che con la loro simpatia hanno conquistato il cuore di milioni di persone in giro per il mondo. 
 
 
 https://youtu.be/4RMA1dh3FFA
